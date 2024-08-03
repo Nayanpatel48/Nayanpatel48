@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nayanpatel48
-- 👀 I’m interested in Operating Systems
+- 👀 I’m interested in my self
 - 🌱 I’m currently learning Web dev
-- 💞️ I’m looking to collaborate on Android app dev kotlin
+- 💞️ I’m looking to collaborate on real life problem solving
 - 📫 How to reach me my linked in or email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No space for liers
