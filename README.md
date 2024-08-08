@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nayanpatel48
 - 👀 I’m interested in my self
 - 🌱 I’m currently learning Web dev
+- Android dev is my hobby
 - 💞️ I’m looking to collaborate on real life problem solving
 - 📫 How to reach me my linked in or email
 - 😄 Pronouns: ...
