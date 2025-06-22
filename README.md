@@ -1,4 +1,4 @@
-# Hi there, I’m Your Name 👋
+# Hi there, I’m Nayan 👋
 
 * ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
 * 📫 Connect with me:
