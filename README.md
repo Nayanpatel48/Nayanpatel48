@@ -29,10 +29,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" width="40"/><br>
   Django
 </td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" width="40"/><br>
-  Machine Learning
-</td>
 
 
 
