@@ -1,55 +1,51 @@
 # Hi there, I’m Your Name 👋
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me:  
-  [![LinkedIn][linkedin-badge]][linkedin-url]
+* ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+* 📫 Connect with me:
+  [![LinkedIn][linkedin-badge]][linkedin-url]  [![Twitter][twitter-badge]][twitter-url]  [![Instagram][instagram-badge]][instagram-url]
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-![Java][java-icon]  
-![React][react-icon]  
-![Spring][spring-icon]  
-![Material-UI][mui-icon]  
-![Redux][redux-icon]  
-![CSS3][css-icon]  
-![HTML5][html-icon]  
-![JavaScript][js-icon]  
-![Firebase][firebase-icon]  
-![Gatsby][gatsby-icon]  
-![MySQL][mysql-icon]  
-![Node.js][node-icon]  
-![AWS][aws-icon]  
-![Git][git-icon]
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS</td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 My GitHub Stats
+### 🔥 GitHub Stats & Usage
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- ICON LINKS -->
+<!-- BADGES & ICON LINKS -->
+
 [linkedin-badge]: https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/your-profile
-[java-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-[react-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-[spring-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
-[mui-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg
-[redux-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
-[css-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-[html-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-[js-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-[firebase-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg
-[gatsby-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg
-[mysql-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-[node-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-[aws-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg
-[git-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+[twitter-badge]: https://img.shields.io/badge/-@YourHandle-1DA1F2?style=flat&logo=Twitter&logoColor=white
+[twitter-url]: https://twitter.com/YourHandle
+[instagram-badge]: https://img.shields.io/badge/-@YourHandle-E1306C?style=flat&logo=Instagram&logoColor=white
+[instagram-url]: https://instagram.com/YourHandle
