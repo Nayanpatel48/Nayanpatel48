@@ -1,6 +1,6 @@
 # Hi there, I’m Your Name 👋
 
-* ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+* ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
 * 📫 Connect with me:
   [![LinkedIn][linkedin-badge]][linkedin-url]  [![Twitter][twitter-badge]][twitter-url]  [![Instagram][instagram-badge]][instagram-url]
 
