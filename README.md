@@ -51,14 +51,3 @@
 
 [twitter-badge]: https://img.shields.io/badge/-@PatelNa53136705-1DA1F2?style=flat&logo=Twitter&logoColor=white
 [twitter-url]:    https://x.com/PatelNa53136705
-
----
-
-<!-- BADGES & ICON LINKS -->
-
-[linkedin-badge]: https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/your-profile
-[twitter-badge]: https://img.shields.io/badge/-@YourHandle-1DA1F2?style=flat&logo=Twitter&logoColor=white
-[twitter-url]: https://twitter.com/YourHandle
-[instagram-badge]: https://img.shields.io/badge/-@YourHandle-E1306C?style=flat&logo=Instagram&logoColor=white
-[instagram-url]: https://instagram.com/YourHandle
