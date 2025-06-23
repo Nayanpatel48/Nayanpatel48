@@ -2,7 +2,7 @@
 
 * ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
 * 📫 Connect with me:
-  [![LinkedIn][linkedin-badge]][linkedin-url]  [![Twitter][twitter-badge]][twitter-url]  [![Instagram][instagram-badge]][instagram-url]
+  [![LinkedIn][linkedin-badge]][https://www.linkedin.com/in/patel-nayan-047317248/]  [![Twitter][twitter-badge]][https://x.com/PatelNa53136705]
 
 ---
 
