@@ -9,6 +9,8 @@
 
 ### 🛠️ Languages & Tools
 
+### 🛠️ Languages & Tools
+
 <table align="center">
   <tr>
     <td align="center">
@@ -25,7 +27,7 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
-      VS Code
+      VS Code
     </td>
   </tr>
   <tr>
@@ -46,7 +48,25 @@
       Django
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>
+      Flutter
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" width="40"/><br>
+      Android Studio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
+      Dart
+    </td>
+    <td></td>
+  </tr>
 </table>
+
+  
+  
 
 ---
 
