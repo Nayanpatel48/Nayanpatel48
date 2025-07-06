@@ -9,8 +9,6 @@
 
 ### 🛠️ Languages & Tools
 
-### 🛠️ Languages & Tools
-
 <table align="center">
   <tr>
     <td align="center">
@@ -54,7 +52,7 @@
       Flutter
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br>
       Android Studio
     </td>
     <td align="center">
@@ -64,9 +62,6 @@
     <td></td>
   </tr>
 </table>
-
-  
-  
 
 ---
 
