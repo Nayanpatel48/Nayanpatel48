@@ -60,7 +60,7 @@
       Dart
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/walkxcode/FlutterFlow-Icon-Set@main/icons/flutterflow_icon_primary.svg" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutterflow.svg" width="40"/><br>
       FlutterFlow
     </td>
   </tr>
