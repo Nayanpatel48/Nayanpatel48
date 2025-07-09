@@ -64,7 +64,19 @@
 <td align="center">
   <img src="https://i.ibb.co/1rwqJ9r/flutterflow-icon.png" width="40"/><br>
   FlutterFlow
+</td><td align="center">
+  <img src="./assets/android-studio.png" width="40"/><br>
+  Android Studio
 </td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
+  Dart
+</td>
+<td align="center">
+  <img src="./assets/flutterflow.png" width="40"/><br>
+  FlutterFlow
+</td>
+
 
   </tr>
 </table>
