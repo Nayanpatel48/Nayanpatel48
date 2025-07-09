@@ -2,7 +2,7 @@
 
 * ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
 * 📫 Connect with me:
-  [![LinkedIn][linkedin-badge]][linkedin-url]  
+  [![LinkedIn][linkedin-badge]][linkedin-url]
   [![Twitter][twitter-badge]][twitter-url]
 
 ---
@@ -55,16 +55,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/2048px-Android_Studio_icon.svg.png" width="40"/><br>
       Android Studio
     </td>
-
-  <td align="center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
       Dart
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/mazipan/flutterflow-logo@main/logo/flutterflow-logo-icon.svg" width="40"/><br>
-    FlutterFlow
-  </td>
-
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/mazipan/flutterflow-logo@main/logo/flutterflow-logo-icon.svg" width="40"/><br>
+      FlutterFlow
+    </td>
   </tr>
 </table>
 
@@ -77,9 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayanpatel48&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- BADGES & ICON LINKS -->
-[linkedin-badge]: https://img.shields.io/badge/-NayanPatel-blue?style=flat&logo=Linkedin&logoColor=white  
-[linkedin-url]: https://www.linkedin.com/in/patel-nayan-047317248/  
+[linkedin-badge]: https://img.shields.io/badge/-NayanPatel-blue?style=flat&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/patel-nayan-047317248/
 
-[twitter-badge]: https://img.shields.io/badge/-@PatelNa53136705-1DA1F2?style=flat&logo=Twitter&logoColor=white  
-[twitter-url]: https://x.com/PatelNa53136705  
+[twitter-badge]: https://img.shields.io/badge/-@PatelNa53136705-1DA1F2?style=flat&logo=Twitter&logoColor=white
+[twitter-url]: https://x.com/PatelNa53136705
