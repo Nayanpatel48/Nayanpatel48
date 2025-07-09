@@ -9,8 +9,6 @@
 
 ### 🛠️ Languages & Tools
 
-### 🛠️ Languages & Tools
-
 <table align="center">
   <tr>
     <td align="center">
@@ -27,7 +25,7 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
-      VS Code
+      VS Code
     </td>
   </tr>
   <tr>
@@ -54,33 +52,19 @@
       Flutter
     </td>
     <td align="center">
-  <img src="https://seeklogo.com/images/A/android-studio-logo-712F6A4A96-seeklogo.com.png" width="40"/><br>
-  Android Studio
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
-  Dart
-</td>
-<td align="center">
-  <img src="https://i.ibb.co/1rwqJ9r/flutterflow-icon.png" width="40"/><br>
-  FlutterFlow
-</td><td align="center">
-  <img src="./assets/android-studio.png" width="40"/><br>
-  Android Studio
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
-  Dart
-</td>
-<td align="center">
-  <img src="./assets/flutterflow.png" width="40"/><br>
-  FlutterFlow
-</td>
-
-
+      <img src="./assets/android-studio.png" width="40"/><br>
+      Android Studio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
+      Dart
+    </td>
+    <td align="center">
+      <img src="./assets/flutterflow.png" width="40"/><br>
+      FlutterFlow
+    </td>
   </tr>
 </table>
-
 
 ---
 
@@ -93,7 +77,7 @@
 
 <!-- BADGES & ICON LINKS -->
 [linkedin-badge]: https://img.shields.io/badge/-NayanPatel-blue?style=flat&logo=Linkedin&logoColor=white  
-[linkedin-url]:    https://www.linkedin.com/in/patel-nayan-047317248/  
+[linkedin-url]: https://www.linkedin.com/in/patel-nayan-047317248/  
 
 [twitter-badge]: https://img.shields.io/badge/-@PatelNa53136705-1DA1F2?style=flat&logo=Twitter&logoColor=white  
-[twitter-url]:    https://x.com/PatelNa53136705  
+[twitter-url]: https://x.com/PatelNa53136705  
