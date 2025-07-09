@@ -59,10 +59,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
       Dart
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutterflow.svg" width="40"/><br>
-      FlutterFlow
-    </td>
   </tr>
 </table>
 
