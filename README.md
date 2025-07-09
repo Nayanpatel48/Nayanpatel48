@@ -52,7 +52,7 @@
       Flutter
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/2048px-Android_Studio_icon.svg.png" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br>
       Android Studio
     </td>
     <td align="center">
@@ -60,7 +60,7 @@
       Dart
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/mazipan/flutterflow-logo@main/logo/flutterflow-logo-icon.svg" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/walkxcode/FlutterFlow-Icon-Set@main/icons/flutterflow_icon_primary.svg" width="40"/><br>
       FlutterFlow
     </td>
   </tr>
