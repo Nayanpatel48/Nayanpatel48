@@ -52,7 +52,7 @@
       Android Studio
     </td>
     <td align="center">
-      <img src="https://uploads-ssl.webflow.com/60c6da1ed3d4a44e93e41e18/60c6db2507e6f566cf0e55ff_flutterflow-icon.svg" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutterflow.svg" width="40"/><br>
       FlutterFlow
     </td>
   </tr>
