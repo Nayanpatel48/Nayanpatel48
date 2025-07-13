@@ -52,8 +52,8 @@
       Android Studio
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Nayanpatel48/Nayanpatel48/main/assets/flutterflow.png" width="40"/><br>
-      FlutterFlow
+      <img src="https://raw.githubusercontent.com/Nayanpatel48/Nayanpatel48/main/assets/flutterflow.png" width="60"/><br>
+        FlutterFlow
     </td>
   </tr>
 </table>
