@@ -51,6 +51,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br>
       Android Studio
     </td>
+    <td align="center">
+      <img src="https://uploads-ssl.webflow.com/60c6da1ed3d4a44e93e41e18/60c6db2507e6f566cf0e55ff_flutterflow-icon.svg" width="40"/><br>
+      FlutterFlow
+    </td>
   </tr>
 </table>
 
