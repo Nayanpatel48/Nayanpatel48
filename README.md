@@ -16,10 +16,6 @@
       Java
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-      Python
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>
       Linux
     </td>
@@ -41,16 +37,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
       MySQL
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" width="40"/><br>
-      Django
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br>
-      Android Studio
-    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nayanpatel48/Nayanpatel48/main/assets/flutterflow.png" width="60"/><br>
         FlutterFlow
