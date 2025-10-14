@@ -3,7 +3,6 @@
 * ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
 * 📫 Connect with me:
   [![LinkedIn][linkedin-badge]][linkedin-url]
-  [![Twitter][twitter-badge]][twitter-url]
 
 ---
 
@@ -57,6 +56,3 @@
 
 [linkedin-badge]: https://img.shields.io/badge/-NayanPatel-blue?style=flat&logo=Linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/patel-nayan-047317248/
-
-[twitter-badge]: https://img.shields.io/badge/-@PatelNa53136705-1DA1F2?style=flat&logo=Twitter&logoColor=white
-[twitter-url]: https://x.com/PatelNa53136705
