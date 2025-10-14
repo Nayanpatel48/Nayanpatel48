@@ -1,6 +1,6 @@
 # Hi there, I’m Nayan 👋
 
-* ⚡ In my work time, I solve problems on GeeksforGeeks and work on ML projects.
+* ⚡ In my work time, I solve problems on GeeksforGeeks and work on projects.
 * 📫 Connect with me:
   [![LinkedIn][linkedin-badge]][linkedin-url]
 
