@@ -15,15 +15,35 @@
       Java
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
+      Dart
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
+      SQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>
+      Flutter
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br>
+      FastAPI
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>
       Linux
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
       VS Code
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>
       HTML5
@@ -32,18 +52,28 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>
       CSS3
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
-      MySQL
-    </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nayanpatel48/Nayanpatel48/main/assets/flutterflow.png" width="60"/><br>
-        FlutterFlow
+      FlutterFlow
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-4c1.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-orange.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-green.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-yellow.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Management-red.svg?style=for-the-badge" />
+</p>
 
 ---
 
