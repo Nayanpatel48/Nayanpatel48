@@ -59,6 +59,16 @@
       <img src="https://raw.githubusercontent.com/Nayanpatel48/Nayanpatel48/main/assets/flutterflow.png" width="60"/><br>
       FlutterFlow
     </td>
+    <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
+  Git
+</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
+  GitHub
+</td>
+
   </tr>
 </table>
 
