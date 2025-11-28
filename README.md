@@ -70,7 +70,6 @@
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-4c1.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-orange.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Development-green.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Design-yellow.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database%20Management-red.svg?style=for-the-badge" />
 </p>
